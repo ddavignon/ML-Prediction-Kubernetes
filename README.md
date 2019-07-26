@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/ddavignon/ML-Prediction-Kubernetes.svg?style=svg)](https://circleci.com/gh/ddavignon/ML-Prediction-Kubernetes)
 
 ## Project Overview
 
